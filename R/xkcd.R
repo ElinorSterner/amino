@@ -8,7 +8,6 @@
 #' @importFrom jsonlite read_json
 #' @export
 #'
-
 xkcd <- function(number){
 
   #make url that takes you to the API for the comic input by the user
